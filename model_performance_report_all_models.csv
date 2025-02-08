@@ -14,9 +14,9 @@ Lasso Regression,Mean Absolute Percentage Error (MAPE),7.215749874462851
 Decision Tree,Mean Squared Error (MSE),94833333333.33333
 Decision Tree,R-squared (R²),0.739498186826498
 Decision Tree,Mean Absolute Percentage Error (MAPE),11.146962879164574
-Random Forest,Mean Squared Error (MSE),78607457874.46233
-Random Forest,R-squared (R²),0.784069750735426
-Random Forest,Mean Absolute Percentage Error (MAPE),9.393366791446857
+Random Forest,Mean Squared Error (MSE),77301031881.72185
+Random Forest,R-squared (R²),0.7876584291876497
+Random Forest,Mean Absolute Percentage Error (MAPE),9.523655263241475
 Support Vector Regression,Mean Squared Error (MSE),371984969658.9284
 Support Vector Regression,R-squared (R²),-0.02182171250728593
 Support Vector Regression,Mean Absolute Percentage Error (MAPE),21.953390897741055

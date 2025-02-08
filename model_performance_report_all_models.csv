@@ -1,0 +1,22 @@
+Model,Metric,Value
+Linear Regression,Mean Squared Error (MSE),35702944443.25292
+Linear Regression,R-squared (R²),0.9019260271026341
+Linear Regression,Mean Absolute Percentage Error (MAPE),7.215749903315995
+Polynomial Regression (degree=2),Mean Squared Error (MSE),54631820405.59362
+Polynomial Regression (degree=2),R-squared (R²),0.8499294733993716
+Polynomial Regression (degree=2),Mean Absolute Percentage Error (MAPE),10.186577865600894
+Ridge Regression,Mean Squared Error (MSE),35702941037.606384
+Ridge Regression,R-squared (R²),0.9019260364577529
+Ridge Regression,Mean Absolute Percentage Error (MAPE),7.215749071274378
+Lasso Regression,Mean Squared Error (MSE),35702944325.15346
+Lasso Regression,R-squared (R²),0.9019260274270468
+Lasso Regression,Mean Absolute Percentage Error (MAPE),7.215749874462851
+Decision Tree,Mean Squared Error (MSE),94833333333.33333
+Decision Tree,R-squared (R²),0.739498186826498
+Decision Tree,Mean Absolute Percentage Error (MAPE),11.146962879164574
+Random Forest,Mean Squared Error (MSE),78607457874.46233
+Random Forest,R-squared (R²),0.784069750735426
+Random Forest,Mean Absolute Percentage Error (MAPE),9.393366791446857
+Support Vector Regression,Mean Squared Error (MSE),371984969658.9284
+Support Vector Regression,R-squared (R²),-0.02182171250728593
+Support Vector Regression,Mean Absolute Percentage Error (MAPE),21.953390897741055

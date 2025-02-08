@@ -1,4 +1,0 @@
-Model,Metric,Value
-Linear Regression,Mean Squared Error (MSE),35702944443.25292
-Linear Regression,R-squared (R²),0.9019260271026341
-Linear Regression,Mean Absolute Percentage Error (MAPE),7.215749903315995

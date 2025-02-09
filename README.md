@@ -41,16 +41,8 @@ Os resultados dos modelos foram avaliados utilizando três métricas principais:
 - **R²:** -0.0218
 - **MAPE:** 21.95%
 
-## Visualizações
-TO-DO: add images.
-### Comparação de MSE
-![Comparação de MSE](images/mse_comparison.png)
-
-### Comparação de R²
-![Comparação de R²](images/r2_comparison.png)
-
-### Comparação de MAPE
-![Comparação de MAPE](images/mape_comparison.png)
+## Overview das métricas:
+![Overview](images/overview.png)
 
 ## Conclusão
 
